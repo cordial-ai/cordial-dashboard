@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "medications": "Lisinopril 10mg daily, Metformin 500mg twice daily",
+    "description": "65-year-old male with type 2 diabetes and hypertension. Enjoys gardening and reading.",
+    "isDefault": true
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "medications": "Levothyroxine 100mcg daily, Sertraline 50mg daily",
+    "description": "42-year-old female with hypothyroidism and mild depression. Works as a teacher and loves yoga.",
+    "isDefault": false
+  },
+  {
+    "id": "3",
+    "name": "Robert Johnson",
+    "medications": "Atorvastatin 20mg daily, Aspirin 81mg daily",
+    "description": "58-year-old male with high cholesterol. Retired firefighter who enjoys fishing and woodworking.",
+    "isDefault": false
+  }
+]
+
