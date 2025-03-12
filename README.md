@@ -1,6 +1,8 @@
 
 # CoRDial Dashboard
 
+<a href="https://doi.org/10.5281/zenodo.15013574"><img src="https://zenodo.org/badge/934124767.svg" alt="DOI"></a>
+
 The **CoRDial Dashboard** offers users a range of functionalities, including:
 - Access to an **inbuilt chatbot** for non-simulator tasks.
 - The ability to **manage patient personas** efficiently.
